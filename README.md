@@ -1,4 +1,5 @@
 # **Project: Setting Up Remote Access**
+![My Image](RemoteAccess-Cover.jpg)
 
 ## **Introduction**
 Remote access is a fundamental feature in modern IT environments, allowing users to connect to computers and manage them from a different location. This capability enhances efficiency, facilitates troubleshooting, and supports remote work. In this project, we will configure and use two primary remote access methods:
@@ -15,7 +16,6 @@ By the end of this lab, you will understand the importance of remote access and 
 To enable, configure, and establish a remote desktop connection between two Windows machines.
 
 ### **Steps**
-![My Image](https://mywebsite.com/image.png)
 
 
 #### **1. Enabling Remote Desktop on PC10**
